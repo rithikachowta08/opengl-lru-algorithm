@@ -15,11 +15,11 @@ Press 'q' to quit
 ![no image](https://i.imgur.com/iI30yqk.png?1)
 
 
-### Page hit
+### Page fault
 ![no image](https://i.imgur.com/reswwwR.png?1)
 
 
-### Page fault
+### Page hit
 ![no image](https://i.imgur.com/qSOw421.png?1)
 
 

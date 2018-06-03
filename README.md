@@ -7,6 +7,8 @@ Just a simple animation of the LRU algorithm
 1) g++ lru.cpp -o gl -lGL -lGLU -lglut
 2) ./gl
 
+Press 'q' to quit
+
 ## Screenshots:
 
 ### Input
